@@ -1,0 +1,28 @@
+.dashbord{
+    padding: 10px;
+}
+.modal-title {
+    margin-bottom: 0;
+    line-height: var(--bs-modal-title-line-height);
+    text-align: center;
+}
+.list-Perso{
+    padding: 50px;
+}
+.perso{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+.logout_link {
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+.nav_color{
+    background-color: #8db6f3;
+}
